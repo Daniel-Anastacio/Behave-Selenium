@@ -17,3 +17,8 @@ Este é um programa Selenium em Python que realiza algumas ações automatizadas
    source venv/bin/activate  # Para sistemas Unix/Linux
    # Ou
    .\venv\Scripts\activate   # Para sistemas Windows
+
+3. **Instalar Selenium** Execute os seguintes comandos:
+   ```bash
+   pip install selenium
+
